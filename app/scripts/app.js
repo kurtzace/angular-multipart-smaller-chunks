@@ -10,7 +10,8 @@
  */
 angular
   .module('angularMultipartSmallerChunksApp', [
-    'ngRoute'
+    'ngRoute',
+    'ngWebworker'
   ])
   .config(function ($routeProvider) {
     $routeProvider

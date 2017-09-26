@@ -33,5 +33,8 @@
   },
   "scripts": {
     "test": "karma start test\\karma.conf.js"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
   }
 }
